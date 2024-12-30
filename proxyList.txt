@@ -3,9 +3,9 @@
 103.133.223.51,2096,ID,PT Cloud Teknologi Nusantara
 103.186.1.209,2053,ID,PT Cloud Hosting Indonesia
 103.6.207.108,8080,ID,PUSATMEDIA
-206.237.98.76,587,ID,PT Herza Digital Indonesia
 43.133.145.156,53136,ID,Shenzhen Tencent Computer Systems Company Limited
-43.218.77.16,1443,ID,Amazon.com Inc.
+43.218.77.16,443,ID,Amazon.com Inc.
+203.194.112.119,8443,ID,CV. Rumahweb Indonesia
 104.248.145.216,443,SG,DigitalOcean LLC
 143.42.66.91,443,SG,Akamai Technologies Inc
 103.180.161.10,587,SG,HONGKONG Megalayer Technology Co Limited
@@ -17,15 +17,44 @@
 164.52.2.99,443,SG,Capitalonline Data Service (HK) Co
 185.114.78.230,443,SG,Aryaka Networks Inc.
 190.92.213.24,443,SG,Huawei International Pte. LTD
+154.91.84.10,8443,SG,Tcloudnet
+119.81.201.154,9089,SG,SoftLayer
+138.2.74.219,28616,SG,WARP Oracle Corporation
+164.52.2.99,443,SG,Cds Global Cloud
+139.180.215.77,57878,SG,The Constant Company
+185.81.28.95,30503,SG,AKILE LTD
+194.127.193.240,50791,SG,LEASEWEB SINGAPORE PTE.
+194.36.178.36,2053,SG,FIRST SERVER LIMITED
+206.206.76.208,2053,SG,Regxa Company for
+194.9.62.132,57255,SG,Speedypage LTD
+20.198.241.32,2053,SG,Microsoft Corporation
+27.0.234.146,19886,SG,Webhorizon Internet
+31.192.238.71,8443,SG,Chelyabinsk signal LLC
+161.117.249.114,2025,SG,Alibaba us Technology
+38.181.70.7,16240,SG,Eons Data Communications
+38.54.16.222,8443,SG,Kaopu Cloud Hk
+5.223.41.214,8443,SG,Hetzner Online GmbH
+64.49.14.41,8443,SG,Latitude.sh
+43.245.198.240,587,SG,Techavenue
+83.142.30.5,2096,SG,Streamline Servers Pty
+91.192.81.154,8443,SG,Melbikomas Uab
+82.197.69.135,43536,SG,Contabo Asia Private
+84.247.49.210,8443,SG,M Europe SRL
+97.74.82.87,45837,SG,Godaddy.com, LLC
+94.237.75.31,62174,SG,Upcloud LTD
+5.34.176.119,81,SG,GREEN FLOID LLC
 188.116.20.93,443,KZ,NLS Kazakhstan LLC
 188.225.31.62,443,KZ,TimeWeb Ltd.
-213.148.10.177,443,KZ,Haicom Limited 
+213.148.10.177,443,KZ,Haicom Limited
 45.80.208.39,443,KZ,G-Core Labs
 86.104.73.185,443,KZ,Stark Industries Solutions LTD
-144.22.252.124,443,BR,Oracle Corporation
-216.238.108.127,443,BR,The Constant Company
-38.180.78.255,443,BR,M247 Europe SRL
-103.111.114.79,443,IN,Melbikomas UAB
-143.244.130.180,443,IN,DigitalOcean LLC
-103.149.165.47,443,IN,The Pinnacle Group Inc
-103.29.32.103,443,IN,Aryaka India
+194.135.25.23,46571,KZ,JSC Transtelecom
+188.116.20.93,443,KZ,NLS Kazakhstan LLC
+45.80.208.126,8081,KZ,WARP G-Core Labs
+90.156.253.113,2053,KZ,BEGET
+94.247.135.18,8443,KZ,PS Internet Company LLP
+79.142.51.162,65000,KZ,Smartnet TOO
+154.90.39.188,48071,MY,Kaopu Cloud HK Limited
+210.186.12.244,443,MY,ADSL Streamyx Telekom Malaysia
+45.195.76.190,29690,MY,Evoxt Enterprise
+253.33.182,12306,MY,Gigabit Hosting Sdn Bhd
